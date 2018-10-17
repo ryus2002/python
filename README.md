@@ -2,9 +2,14 @@
 
 ## scrap1.py 
 -> 爬蟲程式並將結果輸出至index.csv
+-> 用法︰quote_page變數改成想要抓取的URL網址
+```Python
+quote_page = ['http://www.bloomberg.com/quote/SPX:IND', 'http://www.bloomberg.com/quote/CCMP:IND']
+```
 
-## tts.py tts3.py 
+## tts.py、tts3.py 
 -> 訊飛 文字轉音頻 WEB API
+-> 
 
 ## tts2.py 
 -> 訊飛 文字轉音頻 SDK
